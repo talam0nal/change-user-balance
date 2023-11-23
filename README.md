@@ -1,7 +1,7 @@
 Перед запуском проекта запустить миграции и сиды:<br>
-php artisan migrate
-composer dump-autoload
-php artisan db:seed
+php artisan migrate<br>
+composer dump-autoload<br>
+php artisan db:seed<br>
 
 ## API endpoints:
 
